@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140161568386",
+    "project_id": "seeseeconnectvity",
+    "storage_bucket": "seeseeconnectvity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140161568386:android:2114bcab338d49b1a4ee9b",
+        "android_client_info": {
+          "package_name": "com.teampla.seeseeconnectvity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140161568386-1acu0rrkoug3g9pnib488mfg46k1nad6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teampla.seeseeconnectvity",
+            "certificate_hash": "afd695e47f9267ffe1d3cf617651d22aad08ca0b"
+          }
+        },
+        {
+          "client_id": "140161568386-nuu2oeonmdveghebrn7jpq06fgmj4hc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4Man4ZXWVlt4A-tgqfXu7JT1Th43fYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140161568386-nuu2oeonmdveghebrn7jpq06fgmj4hc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
