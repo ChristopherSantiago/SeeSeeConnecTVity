@@ -17,8 +17,9 @@ To develop this mobile application for home safety in preventing intruders or un
 - Visual Studio Code
 - Tensorflow
 
-# Ip/Web Camera
-# Desktop/Laptop
+# Hardware 
+ Ip/Web Camera
+ Desktop/Laptop
 
 
 # Sample Video.
