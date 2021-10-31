@@ -10,4 +10,5 @@ Real time face recognition is part of the field of biometrics. Biometrics is  th
 
 To develop this mobile application for home safety in preventing intruders or unauthorized person enters home by monitoring system. 
 
-![Uploading video-1635643222.gif…]()
+![video-1635643222](https://user-images.githubusercontent.com/93446675/139563085-f7001f9c-2293-486a-83ac-92ec7cc642e0.gif)
+
