@@ -12,10 +12,13 @@ To develop this mobile application for home safety in preventing intruders or un
 
 
 # Software Use
-- Android studio 
-- python
+- Android studio 2020.3.1 
+- python 3.7.3
 - Visual Studio Code
 - Tensorflow
+
+# Ip/Web Camera
+# Desktop/Laptop
 
 
 # Sample Video.
