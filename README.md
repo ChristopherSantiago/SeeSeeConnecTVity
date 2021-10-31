@@ -11,6 +11,12 @@ Real time face recognition is part of the field of biometrics. Biometrics is  th
 To develop this mobile application for home safety in preventing intruders or unauthorized person enters home by monitoring system. 
 
 
+# Software Use
+- Android studio 
+- python
+- Visual Studio Code
+- Tensorflow
+
 
 # Sample Video.
 
