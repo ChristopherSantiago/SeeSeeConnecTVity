@@ -18,8 +18,8 @@ To develop this mobile application for home safety in preventing intruders or un
 - Tensorflow
 
 # Hardware 
- Ip/Web Camera
- Desktop/Laptop
+- Ip/Web Camera
+- Desktop/Laptop
 
 
 # Sample Video.
