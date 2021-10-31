@@ -1,4 +1,4 @@
-# ** _Facial Recognition.**_
+# Facial Recognition.
 
 
 
@@ -6,7 +6,7 @@ _Real time face recognition is part of the field of biometrics. Biometrics is  t
 _
 
 
-# **_Project Objectives._**
+# Project Objectives.
 
 _To develop this mobile application for home safety in preventing intruders or unauthorized person enters home by monitoring system. 
 _
